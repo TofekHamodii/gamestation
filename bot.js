@@ -34,7 +34,7 @@ client.on('ready', () => {
 client.on('ready', function(){    
     var ms = 100000 ;
     var prefix = "-"; 
-    var setGame = [`Ritual`,`Beta 0.9`,`2k`];
+    var setGame = [`GamesStation`,`Beta 0.2`,`Road To ,2k`];
     var i = -1;    
     var j = 0;    
     setInterval(function (){    
